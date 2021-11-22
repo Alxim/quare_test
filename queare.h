@@ -7,6 +7,12 @@ class queare
 {
 public:
     queare();
+    void setA(double a);
+    double s();
+
+private:
+
+    double a;
 };
 
 #endif // QUEARE_H
